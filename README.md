@@ -1,5 +1,7 @@
 Programmersluck
 
+![image](https://github.com/zcsoft/Programmersluck/raw/master/screen.png)
+
 ===================================================
 
 ## 程序员黄历 ios版 1.0.0
