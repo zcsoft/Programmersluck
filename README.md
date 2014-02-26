@@ -6,7 +6,7 @@ Programmersluck
 
 ## 程序员黄历 ios版 1.0.0
 
-源码地址：http://www.xoneday.com/Programmersluck
+源码地址：http://www.xoneday.com
 
 
 ## 参与开发
